@@ -1,3 +1,6 @@
 git init
 gite add --all
 git comit
+git push 
+git clon
+git add --all
